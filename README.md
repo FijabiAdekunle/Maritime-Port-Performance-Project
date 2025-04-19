@@ -57,7 +57,7 @@ Feel free to fork, collaborate, or suggest improvements!
 - 📧 Contact: [LinkedIn](https://www.linkedin.com/in/fijabi-j-adekunle/)
 Email: fijaytwo@gmail.com
 
-> Navigating Data| Unveiling Insights| Driving Impacts
+> **Navigating Data| Unveiling Insights| Driving Impacts**
 
 
 
