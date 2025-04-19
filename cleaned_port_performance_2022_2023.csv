@@ -1,0 +1,804 @@
+economy_label,vessel_type,avg_vessel_age,median_time_in_port,avg_size_GT,avg_cargo_capacity_DWT,avg_container_capacity_TEU,max_size_GT,max_cargo_capacity_DWT,max_container_capacity_TEU,period
+World,All_Vessel_Types,18,1.07,14285,25725.0,3407.0,236583,404389.0,24000.0,2022-S1
+World,Liquid bulk carriers,15,1.0,16298,28286.0,,170618,323183.0,,2022-S1
+World,Liquefied petroleum gas carriers,16,1.03,10726,11986.0,,60784,64220.0,,2022-S1
+World,Liquefied natural gas carriers,12,1.12,96843,75614.0,,168189,155159.0,,2022-S1
+World,Dry bulk carriers,14,2.23,32735,58640.0,,204014,404389.0,,2022-S1
+World,Dry breakbulk carriers,21,1.19,5571,7604.0,,91784,138743.0,,2022-S1
+World,Roll-on/ roll-off ships,17,,25706,10319.0,,100430,55828.0,,2022-S1
+World,Container ships,15,0.84,36855,,3407.0,236583,,24000.0,2022-S1
+World,Passenger ships,20,,8075,,,235600,,,2022-S1
+Australia,All_Vessel_Types,17,1.61,32686,82425.0,4475.0,152305,297633.0,9572.0,2022-S1
+Australia,Liquid bulk carriers,9,1.32,23888,40398.0,,84156,157564.0,,2022-S1
+Australia,Liquefied petroleum gas carriers,8,0.91,14055,15142.0,,53471,57748.0,,2022-S1
+Australia,Liquefied natural gas carriers,10,1.25,111880,86177.0,,149367,97955.0,,2022-S1
+Australia,Dry bulk carriers,11,1.69,59339,110964.0,,152305,297633.0,,2022-S1
+Australia,Dry breakbulk carriers,12,2.23,17715,27077.0,,57934,80500.0,,2022-S1
+Australia,Roll-on/ roll-off ships,11,,42498,15559.0,,76420,43878.0,,2022-S1
+Australia,Container ships,14,1.72,49168,,4475.0,109712,,9572.0,2022-S1
+Australia,Passenger ships,26,,3615,,,91627,,,2022-S1
+Canada,All_Vessel_Types,26,0.97,10931,34424.0,4709.0,225282,300837.0,16000.0,2022-S1
+Canada,Liquid bulk carriers,12,1.09,25168,42234.0,,160462,300837.0,,2022-S1
+Canada,Liquefied petroleum gas carriers,10,1.47,47594,54660.0,,48963,58757.0,,2022-S1
+Canada,Dry bulk carriers,20,0.56,28491,49249.0,,109731,210898.0,,2022-S1
+Canada,Dry breakbulk carriers,12,0.7,12010,16472.0,,40328,55531.0,,2022-S1
+Canada,Roll-on/ roll-off ships,14,,9989,5184.0,,100430,55828.0,,2022-S1
+Canada,Container ships,16,1.98,51902,,4709.0,176546,,16000.0,2022-S1
+Canada,Passenger ships,29,,7020,,,225282,,,2022-S1
+China,All_Vessel_Types,14,1.16,33241,46318.0,4446.0,236583,404389.0,24000.0,2022-S1
+China,Liquid bulk carriers,12,1.15,19438,33800.0,,170618,323183.0,,2022-S1
+China,Liquefied petroleum gas carriers,15,1.04,9885,10706.0,,60784,64220.0,,2022-S1
+China,Liquefied natural gas carriers,11,1.23,101178,81703.0,,168189,155159.0,,2022-S1
+China,Dry bulk carriers,14,2.07,42670,77916.0,,204014,404389.0,,2022-S1
+China,Dry breakbulk carriers,17,1.63,10499,14781.0,,91649,103652.0,,2022-S1
+China,Roll-on/ roll-off ships,13,,31057,10800.0,,76420,43878.0,,2022-S1
+China,Container ships,13,0.77,47428,,4446.0,236583,,24000.0,2022-S1
+China,Passenger ships,12,,21848,,,77499,,,2022-S1
+Croatia,All_Vessel_Types,17,1.33,3783,18222.0,4002.0,153744,159385.0,15226.0,2022-S1
+Croatia,Liquid bulk carriers,16,0.98,16657,28365.0,,84029,159385.0,,2022-S1
+Croatia,Liquefied natural gas carriers,7,2.2,111313,87621.0,,126004,94665.0,,2022-S1
+Croatia,Dry bulk carriers,24,3.03,18981,33376.0,,61677,114045.0,,2022-S1
+Croatia,Dry breakbulk carriers,27,2.21,4151,5586.0,,66870,71955.0,,2022-S1
+Croatia,Container ships,15,0.77,42555,,4002.0,153744,,15226.0,2022-S1
+Croatia,Passenger ships,17,,3355,,,137936,,,2022-S1
+Denmark,All_Vessel_Types,21,0.75,10004,7464.0,1991.0,214286,182983.0,19630.0,2022-S1
+Denmark,Liquid bulk carriers,17,0.66,7644,12163.0,,86990,164028.0,,2022-S1
+Denmark,Liquefied petroleum gas carriers,11,1.16,4370,4785.0,,17840,23484.0,,2022-S1
+Denmark,Dry bulk carriers,13,0.83,9663,15905.0,,94090,182983.0,,2022-S1
+Denmark,Dry breakbulk carriers,24,0.83,2997,4169.0,,20236,32269.0,,2022-S1
+Denmark,Roll-on/ roll-off ships,17,,25653,13805.0,,72708,48988.0,,2022-S1
+Denmark,Container ships,15,0.56,22080,,1991.0,214286,,19630.0,2022-S1
+Denmark,Passenger ships,21,,10404,,,183200,,,2022-S1
+France,All_Vessel_Types,18,1.21,21356,17633.0,5073.0,236583,319778.0,23964.0,2022-S1
+France,Liquid bulk carriers,13,1.03,12382,20825.0,,167168,319778.0,,2022-S1
+France,Liquefied petroleum gas carriers,13,1.11,8716,9828.0,,49567,55250.0,,2022-S1
+France,Liquefied natural gas carriers,9,1.12,106670,82808.0,,149367,121935.0,,2022-S1
+France,Dry bulk carriers,15,3.1,25675,45178.0,,107526,208521.0,,2022-S1
+France,Dry breakbulk carriers,18,1.57,4550,6358.0,,46295,72871.0,,2022-S1
+France,Roll-on/ roll-off ships,18,,26962,11462.0,,76420,45200.0,,2022-S1
+France,Container ships,14,1.12,55262,,5073.0,236583,,23964.0,2022-S1
+France,Passenger ships,20,,22142,,,235600,,,2022-S1
+Germany,All_Vessel_Types,21,0.83,13707,9602.0,4438.0,236583,319191.0,23992.0,2022-S1
+Germany,Liquid bulk carriers,18,0.53,5055,8285.0,,162800,319191.0,,2022-S1
+Germany,Liquefied petroleum gas carriers,14,0.84,5712,6275.0,,48060,54543.0,,2022-S1
+Germany,Dry bulk carriers,12,2.81,31199,54565.0,,108828,210898.0,,2022-S1
+Germany,Dry breakbulk carriers,22,0.8,3938,4947.0,,46295,72927.0,,2022-S1
+Germany,Roll-on/ roll-off ships,17,,30359,12722.0,,100430,55828.0,,2022-S1
+Germany,Container ships,14,1.27,48304,,4438.0,236583,,23992.0,2022-S1
+Germany,Passenger ships,22,,12124,,,183200,,,2022-S1
+Greece,All_Vessel_Types,22,0.87,7937,7550.0,4275.0,219688,167295.0,21237.0,2022-S1
+Greece,Liquid bulk carriers,22,0.6,5131,8040.0,,84796,167295.0,,2022-S1
+Greece,Liquefied petroleum gas carriers,25,0.87,5115,5884.0,,17242,19621.0,,2022-S1
+Greece,Liquefied natural gas carriers,8,1.01,107339,83865.0,,135951,99025.0,,2022-S1
+Greece,Dry bulk carriers,26,0.76,7636,12723.0,,47051,87144.0,,2022-S1
+Greece,Dry breakbulk carriers,34,1.19,2899,4009.0,,39463,52313.0,,2022-S1
+Greece,Roll-on/ roll-off ships,35,,15824,6702.0,,76420,48988.0,,2022-S1
+Greece,Container ships,17,1.19,45594,,4275.0,219688,,21237.0,2022-S1
+Greece,Passenger ships,21,,7268,,,181541,,,2022-S1
+Indonesia,All_Vessel_Types,21,1.28,7796,17116.0,1167.0,136740,230000.0,8204.0,2022-S1
+Indonesia,Liquid bulk carriers,17,1.3,8871,13880.0,,85436,162090.0,,2022-S1
+Indonesia,Liquefied petroleum gas carriers,21,1.09,8411,9126.0,,53573,58811.0,,2022-S1
+Indonesia,Liquefied natural gas carriers,17,1.42,96072,72353.0,,136740,97730.0,,2022-S1
+Indonesia,Dry bulk carriers,19,2.95,26212,46246.0,,113628,230000.0,,2022-S1
+Indonesia,Dry breakbulk carriers,21,1.23,5138,6998.0,,57934,138743.0,,2022-S1
+Indonesia,Roll-on/ roll-off ships,32,,10060,4551.0,,75206,28092.0,,2022-S1
+Indonesia,Container ships,16,1.04,13145,,1167.0,91649,,8204.0,2022-S1
+Indonesia,Passenger ships,22,,5133,,,20563,,,2022-S1
+Italy,All_Vessel_Types,27,1.38,10046,19902.0,3522.0,235600,313049.0,23964.0,2022-S1
+Italy,Liquid bulk carriers,19,1.28,17376,29523.0,,157477,299999.0,,2022-S1
+Italy,Liquefied petroleum gas carriers,15,1.52,8347,9448.0,,48051,55047.0,,2022-S1
+Italy,Liquefied natural gas carriers,15,2.4,42529,30177.0,,52855,39520.0,,2022-S1
+Italy,Dry bulk carriers,15,4.08,26259,45539.0,,151915,313049.0,,2022-S1
+Italy,Dry breakbulk carriers,20,1.89,5930,8272.0,,66870,72914.0,,2022-S1
+Italy,Roll-on/ roll-off ships,14,,35069,13703.0,,76420,45200.0,,2022-S1
+Italy,Container ships,17,1.04,38547,,3522.0,232618,,23964.0,2022-S1
+Italy,Passenger ships,29,,7339,,,235600,,,2022-S1
+Japan,All_Vessel_Types,14,0.42,10111,15391.0,1529.0,165541,327017.0,14336.0,2022-S1
+Japan,Liquid bulk carriers,12,0.31,8247,13980.0,,165541,322861.0,,2022-S1
+Japan,Liquefied petroleum gas carriers,13,0.34,7042,7674.0,,51035,58757.0,,2022-S1
+Japan,Liquefied natural gas carriers,14,1.01,69123,49931.0,,149367,122079.0,,2022-S1
+Japan,Dry bulk carriers,14,0.8,17084,29632.0,,161294,327017.0,,2022-S1
+Japan,Dry breakbulk carriers,15,1.22,6929,9406.0,,66870,138743.0,,2022-S1
+Japan,Roll-on/ roll-off ships,12,,17025,7440.0,,76420,43878.0,,2022-S1
+Japan,Container ships,14,0.38,15801,,1529.0,151015,,14336.0,2022-S1
+Japan,Passenger ships,16,,4484,,,50444,,,2022-S1
+"Korea, Republic of",All_Vessel_Types,15,0.88,18842,21259.0,2849.0,236583,326932.0,23992.0,2022-S1
+"Korea, Republic of",Liquid bulk carriers,13,0.74,13823,23823.0,,170611,323182.0,,2022-S1
+"Korea, Republic of",Liquefied petroleum gas carriers,14,0.8,7868,8584.0,,60783,64012.0,,2022-S1
+"Korea, Republic of",Liquefied natural gas carriers,12,1.05,109322,87462.0,,168189,155159.0,,2022-S1
+"Korea, Republic of",Dry bulk carriers,13,2.5,30258,54270.0,,173756,326932.0,,2022-S1
+"Korea, Republic of",Dry breakbulk carriers,20,1.17,5228,7652.0,,91649,138743.0,,2022-S1
+"Korea, Republic of",Roll-on/ roll-off ships,20,,26175,10747.0,,76420,38500.0,,2022-S1
+"Korea, Republic of",Container ships,14,0.73,30479,,2849.0,236583,,23992.0,2022-S1
+"Korea, Republic of",Passenger ships,12,,17839,,,35187,,,2022-S1
+Netherlands (Kingdom of the),All_Vessel_Types,18,0.64,13348,15394.0,2812.0,236583,399821.0,23992.0,2022-S1
+Netherlands (Kingdom of the),Liquid bulk carriers,17,0.61,9957,18386.0,,163465,321300.0,,2022-S1
+Netherlands (Kingdom of the),Liquefied petroleum gas carriers,15,0.98,6952,7678.0,,49567,58811.0,,2022-S1
+Netherlands (Kingdom of the),Liquefied natural gas carriers,6,1.04,84937,66012.0,,139050,98936.0,,2022-S1
+Netherlands (Kingdom of the),Dry bulk carriers,11,1.15,38989,70083.0,,197453,399821.0,,2022-S1
+Netherlands (Kingdom of the),Dry breakbulk carriers,21,0.43,3900,5218.0,,91784,116173.0,,2022-S1
+Netherlands (Kingdom of the),Roll-on/ roll-off ships,23,,17183,6619.0,,76420,48988.0,,2022-S1
+Netherlands (Kingdom of the),Container ships,16,0.89,30203,,2812.0,236583,,23992.0,2022-S1
+Netherlands (Kingdom of the),Passenger ships,15,,14760,,,184089,,,2022-S1
+Norway,All_Vessel_Types,13,0.42,4080,7375.0,809.0,184089,320780.0,1875.0,2022-S1
+Norway,Liquid bulk carriers,15,0.61,11456,18616.0,,162614,320780.0,,2022-S1
+Norway,Liquefied petroleum gas carriers,11,0.79,7902,8466.0,,37366,42543.0,,2022-S1
+Norway,Liquefied natural gas carriers,17,0.31,7970,5500.0,,121597,88797.0,,2022-S1
+Norway,Dry bulk carriers,15,0.81,19551,33108.0,,107879,209114.0,,2022-S1
+Norway,Dry breakbulk carriers,24,0.33,2810,3418.0,,42515,62000.0,,2022-S1
+Norway,Roll-on/ roll-off ships,18,,11384,6991.0,,70853,27343.0,,2022-S1
+Norway,Container ships,18,0.35,8542,,809.0,17488,,1875.0,2022-S1
+Norway,Passenger ships,12,,3957,,,184089,,,2022-S1
+Philippines,All_Vessel_Types,19,0.97,7244,11878.0,1577.0,151094,297442.0,6350.0,2022-S1
+Philippines,Liquid bulk carriers,13,0.85,7176,11451.0,,65552,114644.0,,2022-S1
+Philippines,Liquefied petroleum gas carriers,16,0.75,7227,8270.0,,50174,58814.0,,2022-S1
+Philippines,Dry bulk carriers,14,4.7,26622,47029.0,,151094,297442.0,,2022-S1
+Philippines,Dry breakbulk carriers,21,0.93,4096,5435.0,,49091,63581.0,,2022-S1
+Philippines,Roll-on/ roll-off ships,27,,16738,7530.0,,63004,31801.0,,2022-S1
+Philippines,Container ships,17,0.94,17135,,1577.0,71821,,6350.0,2022-S1
+Philippines,Passenger ships,20,,3659,,,75904,,,2022-S1
+Russian Federation,All_Vessel_Types,24,1.68,13434,20519.0,1417.0,128975,181458.0,8600.0,2022-S1
+Russian Federation,Liquid bulk carriers,21,1.24,16952,29175.0,,87146,167282.0,,2022-S1
+Russian Federation,Liquefied petroleum gas carriers,17,2.02,10083,11942.0,,18425,23273.0,,2022-S1
+Russian Federation,Liquefied natural gas carriers,10,1.07,99471,72619.0,,128975,97000.0,,2022-S1
+Russian Federation,Dry bulk carriers,16,2.62,27152,47497.0,,94970,181458.0,,2022-S1
+Russian Federation,Dry breakbulk carriers,29,2.17,4559,6061.0,,84503,138743.0,,2022-S1
+Russian Federation,Roll-on/ roll-off ships,32,,11074,5772.0,,58250,22910.0,,2022-S1
+Russian Federation,Container ships,17,1.7,15756,,1417.0,96628,,8600.0,2022-S1
+Russian Federation,Passenger ships,30,,7497,,,12288,,,2022-S1
+Singapore,All_Vessel_Types,12,0.76,25519,19580.0,5320.0,236583,323183.0,23964.0,2022-S1
+Singapore,Liquid bulk carriers,11,0.65,11780,19788.0,,170611,323183.0,,2022-S1
+Singapore,Liquefied petroleum gas carriers,15,1.08,7180,8039.0,,50676,58448.0,,2022-S1
+Singapore,Liquefied natural gas carriers,9,1.28,102828,79931.0,,144828,121730.0,,2022-S1
+Singapore,Dry bulk carriers,9,0.23,15394,24373.0,,112164,209801.0,,2022-S1
+Singapore,Dry breakbulk carriers,16,0.86,8855,13118.0,,91649,138743.0,,2022-S1
+Singapore,Roll-on/ roll-off ships,15,,54345,17919.0,,76420,43878.0,,2022-S1
+Singapore,Container ships,14,0.95,57001,,5320.0,236583,,23964.0,2022-S1
+Singapore,Passenger ships,8,,80329,,,169379,,,2022-S1
+Spain,All_Vessel_Types,17,0.93,17097,16621.0,3157.0,236583,314014.0,23964.0,2022-S1
+Spain,Liquid bulk carriers,13,0.89,11684,19302.0,,160682,314014.0,,2022-S1
+Spain,Liquefied petroleum gas carriers,12,1.01,7833,8843.0,,48600,55076.0,,2022-S1
+Spain,Liquefied natural gas carriers,9,1.06,99072,77044.0,,163922,130441.0,,2022-S1
+Spain,Dry bulk carriers,14,1.87,26536,46280.0,,107761,209472.0,,2022-S1
+Spain,Dry breakbulk carriers,17,1.19,5109,7195.0,,91784,116173.0,,2022-S1
+Spain,Roll-on/ roll-off ships,14,,23991,8288.0,,76420,45200.0,,2022-S1
+Spain,Container ships,16,0.7,34094,,3157.0,236583,,23964.0,2022-S1
+Spain,Passenger ships,19,,15446,,,235600,,,2022-S1
+Sweden,All_Vessel_Types,24,0.82,16713,8837.0,1613.0,214286,320780.0,19630.0,2022-S1
+Sweden,Liquid bulk carriers,15,0.68,8737,13260.0,,162614,320780.0,,2022-S1
+Sweden,Liquefied petroleum gas carriers,14,0.96,7862,8570.0,,50468,54901.0,,2022-S1
+Sweden,Liquefied natural gas carriers,7,0.79,12278,8585.0,,16100,12268.0,,2022-S1
+Sweden,Dry bulk carriers,29,0.51,6813,10000.0,,49206,85206.0,,2022-S1
+Sweden,Dry breakbulk carriers,22,1.02,3787,5348.0,,39433,61250.0,,2022-S1
+Sweden,Roll-on/ roll-off ships,20,,28260,11765.0,,76420,34960.0,,2022-S1
+Sweden,Container ships,17,0.78,17293,,1613.0,214286,,19630.0,2022-S1
+Sweden,Passenger ships,26,,20777,,,181541,,,2022-S1
+Turkiye,All_Vessel_Types,25,1.28,5449,17443.0,2935.0,232618,211182.0,22000.0,2022-S1
+Turkiye,Liquid bulk carriers,14,1.2,18583,32107.0,,86628,167295.0,,2022-S1
+Turkiye,Liquefied petroleum gas carriers,19,1.17,15898,18541.0,,49231,55432.0,,2022-S1
+Turkiye,Liquefied natural gas carriers,8,1.21,112158,89106.0,,141671,99025.0,,2022-S1
+Turkiye,Dry bulk carriers,16,4.05,25496,44119.0,,109716,211182.0,,2022-S1
+Turkiye,Dry breakbulk carriers,28,1.49,4225,5951.0,,43528,72562.0,,2022-S1
+Turkiye,Roll-on/ roll-off ships,28,,22515,9377.0,,76420,45200.0,,2022-S1
+Turkiye,Container ships,18,0.73,31964,,2935.0,232618,,22000.0,2022-S1
+Turkiye,Passenger ships,26,,1714,,,167704,,,2022-S1
+United Kingdom,All_Vessel_Types,19,1.21,13975,12913.0,3309.0,235579,319778.0,23992.0,2022-S1
+United Kingdom,Liquid bulk carriers,15,1.07,12997,21683.0,,161296,319778.0,,2022-S1
+United Kingdom,Liquefied petroleum gas carriers,12,1.1,7012,7626.0,,47922,53999.0,,2022-S1
+United Kingdom,Liquefied natural gas carriers,8,1.22,94300,76612.0,,168189,154940.0,,2022-S1
+United Kingdom,Dry bulk carriers,14,2.88,25873,44257.0,,107879,208445.0,,2022-S1
+United Kingdom,Dry breakbulk carriers,20,1.54,3566,4962.0,,48292,72927.0,,2022-S1
+United Kingdom,Roll-on/ roll-off ships,15,,24187,9698.0,,100430,55828.0,,2022-S1
+United Kingdom,Container ships,17,0.89,35730,,3309.0,235579,,23992.0,2022-S1
+United Kingdom,Passenger ships,20,,12511,,,184089,,,2022-S1
+United States of America,All_Vessel_Types,27,1.7,17666,48498.0,5183.0,235600,319993.0,19273.0,2022-S1
+United States of America,Liquid bulk carriers,11,1.63,35495,61524.0,,170562,319993.0,,2022-S1
+United States of America,Liquefied petroleum gas carriers,10,1.81,30302,34487.0,,60784,63770.0,,2022-S1
+United States of America,Liquefied natural gas carriers,6,1.33,108179,85917.0,,149367,109661.0,,2022-S1
+United States of America,Dry bulk carriers,16,2.7,30341,53750.0,,109529,210000.0,,2022-S1
+United States of America,Dry breakbulk carriers,18,2.04,12697,17006.0,,61185,80344.0,,2022-S1
+United States of America,Roll-on/ roll-off ships,14,,59611,21852.0,,100430,55828.0,,2022-S1
+United States of America,Container ships,16,1.43,57959,,5183.0,196670,,19273.0,2022-S1
+United States of America,Passenger ships,31,,8830,,,235600,,,2022-S1
+World,All_Vessel_Types,18,1.02,14062,25610.0,3432.0,236673,404389.0,24004.0,2022-S2
+World,Liquid bulk carriers,15,0.98,16112,28338.0,,170618,323514.0,,2022-S2
+World,Liquefied petroleum gas carriers,15,1.04,10894,12206.0,,60784,64220.0,,2022-S2
+World,Liquefied natural gas carriers,12,1.12,96141,75255.0,,168189,155159.0,,2022-S2
+World,Dry bulk carriers,14,2.14,32448,58122.0,,204014,404389.0,,2022-S2
+World,Dry breakbulk carriers,21,1.09,5532,7652.0,,91784,116173.0,,2022-S2
+World,Roll-on/ roll-off ships,17,,26417,10575.0,,100430,55828.0,,2022-S2
+World,Container ships,15,0.77,37147,,3432.0,236673,,24004.0,2022-S2
+World,Passenger ships,20,,8294,,,235600,,,2022-S2
+Australia,All_Vessel_Types,17,1.56,32881,82234.0,4598.0,168666,297902.0,9578.0,2022-S2
+Australia,Liquid bulk carriers,9,1.32,24427,41487.0,,85504,158694.0,,2022-S2
+Australia,Liquefied petroleum gas carriers,8,0.82,12763,13737.0,,51035,58814.0,,2022-S2
+Australia,Liquefied natural gas carriers,10,1.2,111819,86185.0,,149367,97975.0,,2022-S2
+Australia,Dry bulk carriers,11,1.66,60048,112390.0,,152311,297902.0,,2022-S2
+Australia,Dry breakbulk carriers,12,2.16,18142,26849.0,,54588,80500.0,,2022-S2
+Australia,Roll-on/ roll-off ships,11,,42265,15276.0,,76420,43878.0,,2022-S2
+Australia,Container ships,14,1.58,49877,,4598.0,109712,,9578.0,2022-S2
+Australia,Passenger ships,27,,6256,,,168666,,,2022-S2
+Canada,All_Vessel_Types,25,0.46,12071,32981.0,4913.0,176546,321300.0,16000.0,2022-S2
+Canada,Liquid bulk carriers,13,1.02,22500,37271.0,,162706,321300.0,,2022-S2
+Canada,Liquefied petroleum gas carriers,8,1.39,48020,54220.0,,51035,58757.0,,2022-S2
+Canada,Dry bulk carriers,22,0.19,26850,45735.0,,109631,210000.0,,2022-S2
+Canada,Dry breakbulk carriers,9,0.14,9167,11173.0,,39258,61670.0,,2022-S2
+Canada,Roll-on/ roll-off ships,15,,12874,6342.0,,100430,55828.0,,2022-S2
+Canada,Container ships,15,1.73,55058,,4913.0,176546,,16000.0,2022-S2
+Canada,Passenger ships,28,,8239,,,169116,,,2022-S2
+China,All_Vessel_Types,13,1.11,33458,46080.0,4516.0,236673,404389.0,24004.0,2022-S2
+China,Liquid bulk carriers,12,1.14,20594,35912.0,,170611,323514.0,,2022-S2
+China,Liquefied petroleum gas carriers,14,1.04,9975,10849.0,,60784,64220.0,,2022-S2
+China,Liquefied natural gas carriers,10,1.22,101184,81230.0,,168189,155159.0,,2022-S2
+China,Dry bulk carriers,14,2.08,43016,78647.0,,204014,404389.0,,2022-S2
+China,Dry breakbulk carriers,17,1.52,10885,15106.0,,91649,103378.0,,2022-S2
+China,Roll-on/ roll-off ships,13,,28128,9914.0,,76420,38500.0,,2022-S2
+China,Container ships,13,0.7,48055,,4516.0,236673,,24004.0,2022-S2
+China,Passenger ships,12,,21024,,,77499,,,2022-S2
+Croatia,All_Vessel_Types,18,1.39,3902,20954.0,3688.0,164998,179276.0,15413.0,2022-S2
+Croatia,Liquid bulk carriers,16,1.05,15394,26025.0,,84029,159855.0,,2022-S2
+Croatia,Liquefied natural gas carriers,6,1.99,109033,88446.0,,136980,121946.0,,2022-S2
+Croatia,Dry bulk carriers,26,3.18,17879,31363.0,,93274,179276.0,,2022-S2
+Croatia,Dry breakbulk carriers,23,2.98,4524,6300.0,,23930,38209.0,,2022-S2
+Croatia,Container ships,16,0.68,39928,,3688.0,153773,,15413.0,2022-S2
+Croatia,Passenger ships,18,,3547,,,164998,,,2022-S2
+Denmark,All_Vessel_Types,21,0.76,10045,7445.0,2026.0,214286,177651.0,19630.0,2022-S2
+Denmark,Liquid bulk carriers,17,0.7,7662,12220.0,,82870,159540.0,,2022-S2
+Denmark,Liquefied petroleum gas carriers,12,1.22,3885,4088.0,,5440,4999.0,,2022-S2
+Denmark,Dry bulk carriers,15,0.81,8945,14717.0,,91775,177651.0,,2022-S2
+Denmark,Dry breakbulk carriers,23,0.8,3268,4543.0,,30351,50640.0,,2022-S2
+Denmark,Roll-on/ roll-off ships,19,,23744,11230.0,,72708,48988.0,,2022-S2
+Denmark,Container ships,16,0.64,22130,,2026.0,214286,,19630.0,2022-S2
+Denmark,Passenger ships,21,,10455,,,183200,,,2022-S2
+France,All_Vessel_Types,18,1.18,21882,19491.0,4980.0,236583,320780.0,23964.0,2022-S2
+France,Liquid bulk carriers,13,1.05,13656,23416.0,,170611,320780.0,,2022-S2
+France,Liquefied petroleum gas carriers,12,1.18,9976,11135.0,,49567,55316.0,,2022-S2
+France,Liquefied natural gas carriers,9,1.14,107081,83412.0,,163922,130171.0,,2022-S2
+France,Dry bulk carriers,14,2.97,25543,44393.0,,95309,182913.0,,2022-S2
+France,Dry breakbulk carriers,19,1.48,4459,6557.0,,44522,62361.0,,2022-S2
+France,Roll-on/ roll-off ships,18,,26459,11323.0,,76420,45200.0,,2022-S2
+France,Container ships,14,1.03,54570,,4980.0,236583,,23964.0,2022-S2
+France,Passenger ships,20,,22356,,,235600,,,2022-S2
+Germany,All_Vessel_Types,21,0.66,12661,10114.0,4743.0,236583,319911.0,24004.0,2022-S2
+Germany,Liquid bulk carriers,19,0.43,4971,9181.0,,164680,319911.0,,2022-S2
+Germany,Liquefied petroleum gas carriers,14,0.7,6137,6789.0,,37366,43538.0,,2022-S2
+Germany,Dry bulk carriers,12,2.7,31062,54181.0,,107741,209935.0,,2022-S2
+Germany,Dry breakbulk carriers,28,0.63,3536,5132.0,,54732,72800.0,,2022-S2
+Germany,Roll-on/ roll-off ships,17,,30588,12826.0,,100430,55828.0,,2022-S2
+Germany,Container ships,14,1.17,51470,,4743.0,236583,,24004.0,2022-S2
+Germany,Passenger ships,21,,11527,,,185206,,,2022-S2
+Greece,All_Vessel_Types,23,0.76,8509,8185.0,4353.0,235579,320000.0,23992.0,2022-S2
+Greece,Liquid bulk carriers,21,0.57,5561,8795.0,,160000,320000.0,,2022-S2
+Greece,Liquefied petroleum gas carriers,26,0.96,5131,6172.0,,44673,49996.0,,2022-S2
+Greece,Liquefied natural gas carriers,8,1.08,103176,82385.0,,121597,96811.0,,2022-S2
+Greece,Dry bulk carriers,26,0.43,8313,14209.0,,43673,82600.0,,2022-S2
+Greece,Dry breakbulk carriers,33,1.1,2926,4076.0,,40350,61537.0,,2022-S2
+Greece,Roll-on/ roll-off ships,35,,15251,6515.0,,76420,48988.0,,2022-S2
+Greece,Container ships,16,0.95,46427,,4353.0,235579,,23992.0,2022-S2
+Greece,Passenger ships,23,,7893,,,167704,,,2022-S2
+Indonesia,All_Vessel_Types,21,1.25,7903,17169.0,1170.0,176546,308491.0,16000.0,2022-S2
+Indonesia,Liquid bulk carriers,16,1.36,8841,13846.0,,159187,308491.0,,2022-S2
+Indonesia,Liquefied petroleum gas carriers,20,1.06,8111,8768.0,,52666,59479.0,,2022-S2
+Indonesia,Liquefied natural gas carriers,17,1.44,98123,75242.0,,128806,96811.0,,2022-S2
+Indonesia,Dry bulk carriers,18,2.64,25853,45622.0,,109716,208610.0,,2022-S2
+Indonesia,Dry breakbulk carriers,21,1.09,5090,6799.0,,54695,72562.0,,2022-S2
+Indonesia,Roll-on/ roll-off ships,26,,11774,5433.0,,76299,31801.0,,2022-S2
+Indonesia,Container ships,16,0.97,13301,,1170.0,176546,,16000.0,2022-S2
+Indonesia,Passenger ships,22,,5284,,,150695,,,2022-S2
+Italy,All_Vessel_Types,27,1.31,10706,20658.0,3540.0,235600,299999.0,23756.0,2022-S2
+Italy,Liquid bulk carriers,19,1.24,17419,29608.0,,157477,299999.0,,2022-S2
+Italy,Liquefied petroleum gas carriers,16,1.56,8548,9783.0,,48008,54520.0,,2022-S2
+Italy,Liquefied natural gas carriers,21,2.36,44920,32764.0,,66174,48817.0,,2022-S2
+Italy,Dry bulk carriers,14,4.45,26874,46718.0,,107806,208611.0,,2022-S2
+Italy,Dry breakbulk carriers,20,1.98,6730,9415.0,,54730,73296.0,,2022-S2
+Italy,Roll-on/ roll-off ships,13,,35628,13681.0,,76420,46634.0,,2022-S2
+Italy,Container ships,17,0.94,38998,,3540.0,232618,,23756.0,2022-S2
+Italy,Passenger ships,29,,8248,,,235600,,,2022-S2
+Japan,All_Vessel_Types,14,0.42,10074,15530.0,1549.0,194308,327017.0,19224.0,2022-S2
+Japan,Liquid bulk carriers,12,0.31,9002,15400.0,,166094,322861.0,,2022-S2
+Japan,Liquefied petroleum gas carriers,13,0.34,6248,6831.0,,52868,58899.0,,2022-S2
+Japan,Liquefied natural gas carriers,13,1.01,66944,48916.0,,149367,121935.0,,2022-S2
+Japan,Dry bulk carriers,14,0.77,16908,29214.0,,161294,327017.0,,2022-S2
+Japan,Dry breakbulk carriers,14,1.13,6848,9104.0,,66870,80344.0,,2022-S2
+Japan,Roll-on/ roll-off ships,12,,16876,7383.0,,76420,46634.0,,2022-S2
+Japan,Container ships,13,0.38,16125,,1549.0,194308,,19224.0,2022-S2
+Japan,Passenger ships,16,,4651,,,50444,,,2022-S2
+"Korea, Republic of",All_Vessel_Types,15,0.85,19185,22007.0,2963.0,236583,326932.0,23964.0,2022-S2
+"Korea, Republic of",Liquid bulk carriers,13,0.73,14644,25415.0,,170618,323514.0,,2022-S2
+"Korea, Republic of",Liquefied petroleum gas carriers,13,0.8,7783,8507.0,,60776,64012.0,,2022-S2
+"Korea, Republic of",Liquefied natural gas carriers,12,1.03,109667,86394.0,,168189,155159.0,,2022-S2
+"Korea, Republic of",Dry bulk carriers,14,2.27,29304,52589.0,,161294,326932.0,,2022-S2
+"Korea, Republic of",Dry breakbulk carriers,19,1.14,5541,7979.0,,91784,116173.0,,2022-S2
+"Korea, Republic of",Roll-on/ roll-off ships,20,,27335,11201.0,,76420,46634.0,,2022-S2
+"Korea, Republic of",Container ships,13,0.69,31817,,2963.0,236583,,23964.0,2022-S2
+"Korea, Republic of",Passenger ships,12,,15379,,,48035,,,2022-S2
+Netherlands (Kingdom of the),All_Vessel_Types,18,0.55,12391,15792.0,2852.0,236583,321300.0,24004.0,2022-S2
+Netherlands (Kingdom of the),Liquid bulk carriers,17,0.52,9258,18074.0,,170611,321300.0,,2022-S2
+Netherlands (Kingdom of the),Liquefied petroleum gas carriers,14,1.01,7195,7966.0,,50400,58757.0,,2022-S2
+Netherlands (Kingdom of the),Liquefied natural gas carriers,8,1.07,79336,62981.0,,141671,104561.0,,2022-S2
+Netherlands (Kingdom of the),Dry bulk carriers,11,1.35,38427,69047.0,,150918,297541.0,,2022-S2
+Netherlands (Kingdom of the),Dry breakbulk carriers,24,0.38,3727,5409.0,,84503,98370.0,,2022-S2
+Netherlands (Kingdom of the),Roll-on/ roll-off ships,22,,20144,7986.0,,76420,34960.0,,2022-S2
+Netherlands (Kingdom of the),Container ships,16,0.84,30785,,2852.0,236583,,24004.0,2022-S2
+Netherlands (Kingdom of the),Passenger ships,16,,13551,,,185206,,,2022-S2
+Norway,All_Vessel_Types,13,0.44,3999,7322.0,779.0,184089,320926.0,1350.0,2022-S2
+Norway,Liquid bulk carriers,16,0.61,10405,16677.0,,166308,320926.0,,2022-S2
+Norway,Liquefied petroleum gas carriers,11,0.86,9641,10627.0,,47500,54650.0,,2022-S2
+Norway,Liquefied natural gas carriers,15,0.32,25094,18475.0,,121597,96811.0,,2022-S2
+Norway,Dry bulk carriers,16,0.85,18331,30456.0,,108151,209177.0,,2022-S2
+Norway,Dry breakbulk carriers,24,0.35,2826,3394.0,,37150,50640.0,,2022-S2
+Norway,Roll-on/ roll-off ships,19,,10721,6622.0,,70853,28092.0,,2022-S2
+Norway,Container ships,18,0.35,8392,,779.0,16137,,1350.0,2022-S2
+Norway,Passenger ships,13,,3877,,,184089,,,2022-S2
+Philippines,All_Vessel_Types,18,0.99,7263,11519.0,1636.0,151094,297442.0,6570.0,2022-S2
+Philippines,Liquid bulk carriers,13,0.86,6499,10335.0,,65696,115024.0,,2022-S2
+Philippines,Liquefied petroleum gas carriers,16,0.71,7477,8458.0,,49997,55333.0,,2022-S2
+Philippines,Dry bulk carriers,14,5.15,26691,47107.0,,151094,297442.0,,2022-S2
+Philippines,Dry breakbulk carriers,20,0.93,4080,5411.0,,66870,71691.0,,2022-S2
+Philippines,Roll-on/ roll-off ships,27,,20100,8484.0,,76299,26988.0,,2022-S2
+Philippines,Container ships,17,1.01,17705,,1636.0,72884,,6570.0,2022-S2
+Philippines,Passenger ships,19,,3848,,,29064,,,2022-S2
+Russian Federation,All_Vessel_Types,27,1.42,10933,16817.0,1140.0,136716,181352.0,4132.0,2022-S2
+Russian Federation,Liquid bulk carriers,23,1.11,14734,25142.0,,87146,166300.0,,2022-S2
+Russian Federation,Liquefied petroleum gas carriers,22,1.79,10395,12606.0,,18425,22911.0,,2022-S2
+Russian Federation,Liquefied natural gas carriers,10,1.09,100768,73744.0,,136716,97000.0,,2022-S2
+Russian Federation,Dry bulk carriers,18,2.78,27391,48421.0,,94934,181352.0,,2022-S2
+Russian Federation,Dry breakbulk carriers,31,1.56,4202,5559.0,,84503,98370.0,,2022-S2
+Russian Federation,Roll-on/ roll-off ships,32,,9882,5420.0,,50308,16178.0,,2022-S2
+Russian Federation,Container ships,20,1.74,12834,,1140.0,39812,,4132.0,2022-S2
+Russian Federation,Passenger ships,28,,7104,,,38557,,,2022-S2
+Singapore,All_Vessel_Types,12,0.75,25808,18934.0,5117.0,236583,321300.0,23964.0,2022-S2
+Singapore,Liquid bulk carriers,11,0.64,11220,18800.0,,170611,321300.0,,2022-S2
+Singapore,Liquefied petroleum gas carriers,13,1.23,9430,10769.0,,51035,56864.0,,2022-S2
+Singapore,Liquefied natural gas carriers,10,1.29,105058,84103.0,,144978,121946.0,,2022-S2
+Singapore,Dry bulk carriers,13,2.02,21373,35723.0,,151307,298172.0,,2022-S2
+Singapore,Dry breakbulk carriers,16,0.82,9604,12956.0,,91649,103378.0,,2022-S2
+Singapore,Roll-on/ roll-off ships,15,,54153,17869.0,,76420,43878.0,,2022-S2
+Singapore,Container ships,14,0.88,54716,,5117.0,236583,,23964.0,2022-S2
+Singapore,Passenger ships,8,,121740,,,169379,,,2022-S2
+Spain,All_Vessel_Types,18,0.88,16723,16522.0,3044.0,236583,318953.0,23964.0,2022-S2
+Spain,Liquid bulk carriers,13,0.86,11335,18709.0,,165571,318953.0,,2022-S2
+Spain,Liquefied petroleum gas carriers,12,1.08,8193,9255.0,,50468,55432.0,,2022-S2
+Spain,Liquefied natural gas carriers,11,1.04,96008,75646.0,,163922,130298.0,,2022-S2
+Spain,Dry bulk carriers,15,2.25,25770,44814.0,,107879,208445.0,,2022-S2
+Spain,Dry breakbulk carriers,17,1.26,5183,7275.0,,48292,73296.0,,2022-S2
+Spain,Roll-on/ roll-off ships,13,,25984,9085.0,,76420,46634.0,,2022-S2
+Spain,Container ships,16,0.65,33109,,3044.0,236583,,23964.0,2022-S2
+Spain,Passenger ships,20,,15051,,,235600,,,2022-S2
+Sweden,All_Vessel_Types,23,0.82,17319,9097.0,1638.0,214286,319725.0,19630.0,2022-S2
+Sweden,Liquid bulk carriers,14,0.67,8489,12738.0,,166223,319725.0,,2022-S2
+Sweden,Liquefied petroleum gas carriers,13,0.97,9640,10674.0,,49567,55115.0,,2022-S2
+Sweden,Dry bulk carriers,27,0.56,8273,12877.0,,49445,85000.0,,2022-S2
+Sweden,Dry breakbulk carriers,21,1.06,3846,5458.0,,37499,56816.0,,2022-S2
+Sweden,Roll-on/ roll-off ships,19,,29439,12279.0,,76420,34960.0,,2022-S2
+Sweden,Container ships,17,0.72,17410,,1638.0,214286,,19630.0,2022-S2
+Sweden,Passenger ships,26,,21251,,,145000,,,2022-S2
+Turkiye,All_Vessel_Types,25,1.24,5648,17314.0,2652.0,194308,305749.0,19462.0,2022-S2
+Turkiye,Liquid bulk carriers,14,1.27,18857,32316.0,,159566,305749.0,,2022-S2
+Turkiye,Liquefied petroleum gas carriers,19,1.24,17129,20004.0,,49231,55408.0,,2022-S2
+Turkiye,Liquefied natural gas carriers,8,1.26,111905,89850.0,,141671,105602.0,,2022-S2
+Turkiye,Dry bulk carriers,17,3.76,24462,42118.0,,107741,209801.0,,2022-S2
+Turkiye,Dry breakbulk carriers,27,1.48,4335,6058.0,,74226,80067.0,,2022-S2
+Turkiye,Roll-on/ roll-off ships,25,,25015,9999.0,,76420,45200.0,,2022-S2
+Turkiye,Container ships,18,0.61,28827,,2652.0,194308,,19462.0,2022-S2
+Turkiye,Passenger ships,26,,1965,,,167704,,,2022-S2
+United Kingdom,All_Vessel_Types,19,1.15,14290,13198.0,3198.0,236228,319896.0,24004.0,2022-S2
+United Kingdom,Liquid bulk carriers,15,1.07,13316,22113.0,,166178,319896.0,,2022-S2
+United Kingdom,Liquefied petroleum gas carriers,11,1.1,6781,7330.0,,59226,51312.0,,2022-S2
+United Kingdom,Liquefied natural gas carriers,8,1.23,100993,81194.0,,168189,154940.0,,2022-S2
+United Kingdom,Dry bulk carriers,14,2.71,26284,45060.0,,94710,182309.0,,2022-S2
+United Kingdom,Dry breakbulk carriers,19,1.51,3605,4982.0,,72275,81798.0,,2022-S2
+United Kingdom,Roll-on/ roll-off ships,15,,24002,9769.0,,100430,55828.0,,2022-S2
+United Kingdom,Container ships,16,0.78,34727,,3198.0,236228,,24004.0,2022-S2
+United Kingdom,Passenger ships,20,,13062,,,204400,,,2022-S2
+United States of America,All_Vessel_Types,26,1.65,18282,49015.0,5506.0,235600,322829.0,19224.0,2022-S2
+United States of America,Liquid bulk carriers,11,1.65,36788,64011.0,,170611,322829.0,,2022-S2
+United States of America,Liquefied petroleum gas carriers,8,1.79,31098,35161.0,,60784,64012.0,,2022-S2
+United States of America,Liquefied natural gas carriers,6,1.39,106182,84739.0,,149367,121946.0,,2022-S2
+United States of America,Dry bulk carriers,19,2.24,29296,52571.0,,109716,208530.0,,2022-S2
+United States of America,Dry breakbulk carriers,18,1.97,12325,16371.0,,91784,116173.0,,2022-S2
+United States of America,Roll-on/ roll-off ships,14,,59899,21853.0,,100430,55828.0,,2022-S2
+United States of America,Container ships,15,1.36,61734,,5506.0,194308,,19224.0,2022-S2
+United States of America,Passenger ships,30,,9886,,,235600,,,2022-S2
+World,All_Vessel_Types,18,1.0,14427,25624.0,3534.0,237000,404389.0,24116.0,2023-S1
+World,Liquid bulk carriers,15,0.99,16117,28408.0,,170618,323514.0,,2023-S1
+World,Liquefied petroleum gas carriers,16,1.04,10939,12240.0,,60784,64220.0,,2023-S1
+World,Liquefied natural gas carriers,12,1.11,93534,73247.0,,168189,155159.0,,2023-S1
+World,Dry bulk carriers,15,2.2,32935,58976.0,,204014,404389.0,,2023-S1
+World,Dry breakbulk carriers,21,1.08,5579,7757.0,,149944,175897.0,,2023-S1
+World,Roll-on/ roll-off ships,17,,26276,10467.0,,100430,55828.0,,2023-S1
+World,Container ships,15,0.7,38049,,3534.0,237000,,24116.0,2023-S1
+World,Passenger ships,20,,8278,,,235600,,,2023-S1
+Australia,All_Vessel_Types,18,1.53,33793,82767.0,4413.0,168666,297902.0,9572.0,2023-S1
+Australia,Liquid bulk carriers,9,1.29,24412,41398.0,,84624,160036.0,,2023-S1
+Australia,Liquefied petroleum gas carriers,8,0.84,13462,14415.0,,53471,58811.0,,2023-S1
+Australia,Liquefied natural gas carriers,11,1.2,111839,85727.0,,149367,97955.0,,2023-S1
+Australia,Dry bulk carriers,11,1.69,59934,112111.0,,152311,297902.0,,2023-S1
+Australia,Dry breakbulk carriers,13,2.01,18043,27525.0,,57541,80500.0,,2023-S1
+Australia,Roll-on/ roll-off ships,11,,40548,15091.0,,76420,43878.0,,2023-S1
+Australia,Container ships,15,1.38,48145,,4413.0,109712,,9572.0,2023-S1
+Australia,Passenger ships,27,,8212,,,168666,,,2023-S1
+Canada,All_Vessel_Types,26,0.73,11084,34288.0,5375.0,225282,318918.0,16000.0,2023-S1
+Canada,Liquid bulk carriers,13,1.11,24830,41553.0,,161593,318918.0,,2023-S1
+Canada,Liquefied petroleum gas carriers,10,1.43,47635,54540.0,,49231,58899.0,,2023-S1
+Canada,Dry bulk carriers,21,0.59,29290,50622.0,,109872,210963.0,,2023-S1
+Canada,Dry breakbulk carriers,8,0.12,9221,10661.0,,49091,63581.0,,2023-S1
+Canada,Roll-on/ roll-off ships,16,,14188,6753.0,,100430,55828.0,,2023-S1
+Canada,Container ships,16,1.49,59039,,5375.0,176546,,16000.0,2023-S1
+Canada,Passenger ships,28,,7093,,,225282,,,2023-S1
+China,All_Vessel_Types,14,1.05,33157,45972.0,4477.0,237000,404389.0,24116.0,2023-S1
+China,Liquid bulk carriers,13,1.11,20178,35185.0,,170618,323514.0,,2023-S1
+China,Liquefied petroleum gas carriers,14,1.02,9767,10580.0,,60784,64220.0,,2023-S1
+China,Liquefied natural gas carriers,10,1.17,95534,75894.0,,168189,155159.0,,2023-S1
+China,Dry bulk carriers,15,2.01,43013,78587.0,,204014,404389.0,,2023-S1
+China,Dry breakbulk carriers,17,1.3,11067,15545.0,,149944,175897.0,,2023-S1
+China,Roll-on/ roll-off ships,14,,27170,9663.0,,76420,46634.0,,2023-S1
+China,Container ships,13,0.6,47767,,4477.0,237000,,24116.0,2023-S1
+China,Passenger ships,13,,19196,,,77499,,,2023-S1
+Croatia,All_Vessel_Types,18,1.28,3856,24141.0,4274.0,157844,306506.0,15500.0,2023-S1
+Croatia,Liquid bulk carriers,16,1.01,19434,33467.0,,157844,306506.0,,2023-S1
+Croatia,Liquefied natural gas carriers,7,1.82,111269,92013.0,,117162,95788.0,,2023-S1
+Croatia,Dry bulk carriers,22,2.1,19481,33731.0,,94090,182820.0,,2023-S1
+Croatia,Dry breakbulk carriers,22,2.66,5750,7693.0,,149944,175897.0,,2023-S1
+Croatia,Container ships,17,0.64,47054,,4274.0,153774,,15500.0,2023-S1
+Croatia,Passenger ships,18,,3391,,,145655,,,2023-S1
+Denmark,All_Vessel_Types,22,0.77,9862,7824.0,2016.0,214286,180086.0,19630.0,2023-S1
+Denmark,Liquid bulk carriers,19,0.69,7940,12688.0,,84735,164787.0,,2023-S1
+Denmark,Liquefied petroleum gas carriers,12,1.25,3520,3732.0,,8009,8643.0,,2023-S1
+Denmark,Dry bulk carriers,12,0.82,10726,17641.0,,94863,180086.0,,2023-S1
+Denmark,Dry breakbulk carriers,24,0.85,3260,4499.0,,49091,63581.0,,2023-S1
+Denmark,Roll-on/ roll-off ships,19,,23288,12571.0,,72708,48988.0,,2023-S1
+Denmark,Container ships,17,0.58,22232,,2016.0,214286,,19630.0,2023-S1
+Denmark,Passenger ships,22,,10227,,,183200,,,2023-S1
+France,All_Vessel_Types,19,1.16,22769,19058.0,5630.0,236583,319398.0,23964.0,2023-S1
+France,Liquid bulk carriers,14,1.07,14274,24688.0,,166094,319398.0,,2023-S1
+France,Liquefied petroleum gas carriers,13,1.32,9086,10151.0,,53573,58243.0,,2023-S1
+France,Liquefied natural gas carriers,9,1.12,106812,83407.0,,163922,130442.0,,2023-S1
+France,Dry bulk carriers,15,3.25,24034,41777.0,,106251,207867.0,,2023-S1
+France,Dry breakbulk carriers,20,1.51,4445,6415.0,,49091,72400.0,,2023-S1
+France,Roll-on/ roll-off ships,19,,27129,11352.0,,76420,45200.0,,2023-S1
+France,Container ships,14,0.89,61255,,5630.0,236583,,23964.0,2023-S1
+France,Passenger ships,20,,23369,,,228081,,,2023-S1
+Germany,All_Vessel_Types,22,0.64,13256,9967.0,5098.0,237000,320926.0,24004.0,2023-S1
+Germany,Liquid bulk carriers,20,0.42,4814,8848.0,,166308,320926.0,,2023-S1
+Germany,Liquefied petroleum gas carriers,16,0.85,4954,5561.0,,47789,54650.0,,2023-S1
+Germany,Liquefied natural gas carriers,12,1.0,28347,24544.0,,135977,98936.0,,2023-S1
+Germany,Dry bulk carriers,13,2.59,29753,51643.0,,109731,209338.0,,2023-S1
+Germany,Dry breakbulk carriers,28,0.62,3684,5217.0,,54730,72400.0,,2023-S1
+Germany,Roll-on/ roll-off ships,17,,32538,13303.0,,100430,55828.0,,2023-S1
+Germany,Container ships,15,1.0,55126,,5098.0,237000,,24004.0,2023-S1
+Germany,Passenger ships,22,,12126,,,184089,,,2023-S1
+Greece,All_Vessel_Types,24,0.85,8420,7607.0,4483.0,237000,319359.0,24000.0,2023-S1
+Greece,Liquid bulk carriers,23,0.63,5323,8382.0,,161692,319359.0,,2023-S1
+Greece,Liquefied petroleum gas carriers,26,0.98,5083,6131.0,,22978,26798.0,,2023-S1
+Greece,Liquefied natural gas carriers,11,1.13,103339,83072.0,,144828,98954.0,,2023-S1
+Greece,Dry bulk carriers,27,0.76,7124,11985.0,,93302,182511.0,,2023-S1
+Greece,Dry breakbulk carriers,35,1.1,2933,4120.0,,40350,62053.0,,2023-S1
+Greece,Roll-on/ roll-off ships,35,,16047,6519.0,,76420,48988.0,,2023-S1
+Greece,Container ships,17,1.09,47853,,4483.0,237000,,24000.0,2023-S1
+Greece,Passenger ships,23,,7712,,,186364,,,2023-S1
+Indonesia,All_Vessel_Types,20,1.26,7797,17052.0,1283.0,176435,210944.0,16000.0,2023-S1
+Indonesia,Liquid bulk carriers,16,1.31,8646,13557.0,,85206,163759.0,,2023-S1
+Indonesia,Liquefied petroleum gas carriers,21,1.08,8110,8845.0,,52666,58886.0,,2023-S1
+Indonesia,Liquefied natural gas carriers,18,1.42,94559,72452.0,,136739,96811.0,,2023-S1
+Indonesia,Dry bulk carriers,18,2.87,26055,46024.0,,108868,210944.0,,2023-S1
+Indonesia,Dry breakbulk carriers,21,1.18,5133,6885.0,,57934,72562.0,,2023-S1
+Indonesia,Roll-on/ roll-off ships,27,,11030,5143.0,,75528,28084.0,,2023-S1
+Indonesia,Container ships,16,0.97,14272,,1283.0,176435,,16000.0,2023-S1
+Indonesia,Passenger ships,21,,5021,,,108977,,,2023-S1
+Italy,All_Vessel_Types,28,1.31,10515,20907.0,3955.0,236184,210000.0,24000.0,2023-S1
+Italy,Liquid bulk carriers,18,1.3,18789,32091.0,,86855,167282.0,,2023-S1
+Italy,Liquefied petroleum gas carriers,16,1.46,8951,10131.0,,48963,54656.0,,2023-S1
+Italy,Liquefied natural gas carriers,17,2.11,51718,38382.0,,117564,93080.0,,2023-S1
+Italy,Dry bulk carriers,14,3.94,25986,44768.0,,109534,210000.0,,2023-S1
+Italy,Dry breakbulk carriers,20,1.97,6541,9116.0,,149944,175897.0,,2023-S1
+Italy,Roll-on/ roll-off ships,13,,36845,13684.0,,89797,47528.0,,2023-S1
+Italy,Container ships,18,0.93,43377,,3955.0,236184,,24000.0,2023-S1
+Italy,Passenger ships,30,,7450,,,228081,,,2023-S1
+Japan,All_Vessel_Types,14,0.41,10356,15079.0,1580.0,235311,327017.0,15413.0,2023-S1
+Japan,Liquid bulk carriers,12,0.32,8398,14241.0,,169919,320122.0,,2023-S1
+Japan,Liquefied petroleum gas carriers,13,0.38,7130,7793.0,,54000,62500.0,,2023-S1
+Japan,Liquefied natural gas carriers,15,1.01,63075,46177.0,,149367,121957.0,,2023-S1
+Japan,Dry bulk carriers,14,0.92,17285,29892.0,,161294,327017.0,,2023-S1
+Japan,Dry breakbulk carriers,15,1.18,6892,9175.0,,66870,80236.0,,2023-S1
+Japan,Roll-on/ roll-off ships,12,,16714,7294.0,,76420,43878.0,,2023-S1
+Japan,Container ships,13,0.35,16313,,1580.0,235311,,15413.0,2023-S1
+Japan,Passenger ships,16,,5131,,,171598,,,2023-S1
+"Korea, Republic of",All_Vessel_Types,15,0.84,19386,21057.0,2942.0,236583,326932.0,24000.0,2023-S1
+"Korea, Republic of",Liquid bulk carriers,14,0.74,13736,23684.0,,167578,323514.0,,2023-S1
+"Korea, Republic of",Liquefied petroleum gas carriers,14,0.83,8479,9265.0,,55833,62500.0,,2023-S1
+"Korea, Republic of",Liquefied natural gas carriers,13,1.03,109467,86556.0,,168189,155159.0,,2023-S1
+"Korea, Republic of",Dry bulk carriers,14,2.74,32420,58245.0,,161294,326932.0,,2023-S1
+"Korea, Republic of",Dry breakbulk carriers,20,1.13,5544,8045.0,,149944,175897.0,,2023-S1
+"Korea, Republic of",Roll-on/ roll-off ships,21,,28295,11601.0,,89797,47528.0,,2023-S1
+"Korea, Republic of",Container ships,14,0.64,31518,,2942.0,236583,,24000.0,2023-S1
+"Korea, Republic of",Passenger ships,11,,16809,,,171598,,,2023-S1
+Netherlands (Kingdom of the),All_Vessel_Types,19,0.53,12474,15205.0,3066.0,237000,324954.0,24116.0,2023-S1
+Netherlands (Kingdom of the),Liquid bulk carriers,17,0.55,9104,17955.0,,170611,321300.0,,2023-S1
+Netherlands (Kingdom of the),Liquefied petroleum gas carriers,16,0.99,6825,7547.0,,52506,59504.0,,2023-S1
+Netherlands (Kingdom of the),Liquefied natural gas carriers,7,1.05,81509,63617.0,,163922,130211.0,,2023-S1
+Netherlands (Kingdom of the),Dry bulk carriers,13,0.86,37283,66892.0,,173756,324954.0,,2023-S1
+Netherlands (Kingdom of the),Dry breakbulk carriers,25,0.37,3740,5520.0,,91784,116173.0,,2023-S1
+Netherlands (Kingdom of the),Roll-on/ roll-off ships,24,,18687,7157.0,,76420,34960.0,,2023-S1
+Netherlands (Kingdom of the),Container ships,17,0.8,32804,,3066.0,237000,,24116.0,2023-S1
+Netherlands (Kingdom of the),Passenger ships,17,,14771,,,184089,,,2023-S1
+Norway,All_Vessel_Types,14,0.42,3795,7585.0,777.0,184089,319319.0,1875.0,2023-S1
+Norway,Liquid bulk carriers,17,0.64,12057,19635.0,,164580,319319.0,,2023-S1
+Norway,Liquefied petroleum gas carriers,12,0.82,7324,7895.0,,26614,30212.0,,2023-S1
+Norway,Liquefied natural gas carriers,16,0.73,23696,17491.0,,121597,92266.0,,2023-S1
+Norway,Dry bulk carriers,15,0.85,18180,30264.0,,107567,208263.0,,2023-S1
+Norway,Dry breakbulk carriers,25,0.34,2911,3470.0,,84503,98370.0,,2023-S1
+Norway,Roll-on/ roll-off ships,19,,10875,6597.0,,72408,27295.0,,2023-S1
+Norway,Container ships,19,0.29,8451,,777.0,17982,,1875.0,2023-S1
+Norway,Passenger ships,14,,3660,,,184089,,,2023-S1
+Philippines,All_Vessel_Types,18,0.78,6974,10273.0,1729.0,151094,297461.0,6570.0,2023-S1
+Philippines,Liquid bulk carriers,13,0.85,6575,10466.0,,65696,115024.0,,2023-S1
+Philippines,Liquefied petroleum gas carriers,17,0.7,7506,8527.0,,50226,58591.0,,2023-S1
+Philippines,Dry bulk carriers,15,4.53,27437,48310.0,,151094,297461.0,,2023-S1
+Philippines,Dry breakbulk carriers,17,0.63,3433,4586.0,,66870,71691.0,,2023-S1
+Philippines,Roll-on/ roll-off ships,27,,21251,8996.0,,76299,32956.0,,2023-S1
+Philippines,Container ships,17,0.81,18532,,1729.0,72884,,6570.0,2023-S1
+Philippines,Passenger ships,20,,3759,,,92627,,,2023-S1
+Russian Federation,All_Vessel_Types,25,1.61,12709,20133.0,1262.0,128975,185897.0,4800.0,2023-S1
+Russian Federation,Liquid bulk carriers,23,1.22,17459,30325.0,,87146,166467.0,,2023-S1
+Russian Federation,Liquefied petroleum gas carriers,21,1.9,11452,13846.0,,26513,29421.0,,2023-S1
+Russian Federation,Liquefied natural gas carriers,12,1.12,104818,75788.0,,128975,97000.0,,2023-S1
+Russian Federation,Dry bulk carriers,17,2.78,28460,50193.0,,94710,185897.0,,2023-S1
+Russian Federation,Dry breakbulk carriers,29,1.94,4674,6254.0,,48191,72562.0,,2023-S1
+Russian Federation,Roll-on/ roll-off ships,31,,9829,5525.0,,20729,14107.0,,2023-S1
+Russian Federation,Container ships,19,1.52,13333,,1262.0,54519,,4800.0,2023-S1
+Russian Federation,Passenger ships,25,,6192,,,38557,,,2023-S1
+Singapore,All_Vessel_Types,13,0.74,26250,17587.0,5306.0,237000,321225.0,24116.0,2023-S1
+Singapore,Liquid bulk carriers,12,0.65,10574,17585.0,,170611,321225.0,,2023-S1
+Singapore,Liquefied petroleum gas carriers,13,1.13,8601,9834.0,,49394,58677.0,,2023-S1
+Singapore,Liquefied natural gas carriers,12,1.72,103420,81644.0,,136894,97730.0,,2023-S1
+Singapore,Dry bulk carriers,10,0.61,17066,28046.0,,111454,210000.0,,2023-S1
+Singapore,Dry breakbulk carriers,15,0.72,7716,10316.0,,149944,175897.0,,2023-S1
+Singapore,Roll-on/ roll-off ships,17,,53933,17868.0,,76420,43878.0,,2023-S1
+Singapore,Container ships,15,0.85,56635,,5306.0,237000,,24116.0,2023-S1
+Singapore,Passenger ships,12,,107442,,,171598,,,2023-S1
+Spain,All_Vessel_Types,18,0.86,17577,16489.0,3202.0,237000,318744.0,24100.0,2023-S1
+Spain,Liquid bulk carriers,13,0.86,11394,18662.0,,160457,318744.0,,2023-S1
+Spain,Liquefied petroleum gas carriers,14,1.07,7400,8376.0,,49231,55408.0,,2023-S1
+Spain,Liquefied natural gas carriers,11,1.06,94694,73316.0,,135977,99025.0,,2023-S1
+Spain,Dry bulk carriers,16,1.96,25753,44588.0,,107553,207520.0,,2023-S1
+Spain,Dry breakbulk carriers,17,1.25,5233,7341.0,,49091,73296.0,,2023-S1
+Spain,Roll-on/ roll-off ships,13,,26295,9092.0,,89797,47528.0,,2023-S1
+Spain,Container ships,17,0.61,34622,,3202.0,237000,,24100.0,2023-S1
+Spain,Passenger ships,20,,15664,,,228081,,,2023-S1
+Sweden,All_Vessel_Types,23,0.85,17399,9088.0,1660.0,214286,319319.0,19630.0,2023-S1
+Sweden,Liquid bulk carriers,15,0.68,8645,12957.0,,164580,319319.0,,2023-S1
+Sweden,Liquefied petroleum gas carriers,14,0.91,9081,10049.0,,48060,55250.0,,2023-S1
+Sweden,Dry bulk carriers,21,0.55,6793,10631.0,,44397,81878.0,,2023-S1
+Sweden,Dry breakbulk carriers,21,1.13,3819,5454.0,,38910,55596.0,,2023-S1
+Sweden,Roll-on/ roll-off ships,18,,31402,12684.0,,76420,31143.0,,2023-S1
+Sweden,Container ships,19,0.68,17948,,1660.0,214286,,19630.0,2023-S1
+Sweden,Passenger ships,26,,21456,,,143730,,,2023-S1
+Turkiye,All_Vessel_Types,24,1.32,6012,17405.0,2805.0,194308,319471.0,19462.0,2023-S1
+Turkiye,Liquid bulk carriers,16,1.33,18155,30728.0,,169919,319471.0,,2023-S1
+Turkiye,Liquefied petroleum gas carriers,19,1.34,16472,19332.0,,52506,59504.0,,2023-S1
+Turkiye,Liquefied natural gas carriers,9,1.2,110840,89069.0,,130200,107662.0,,2023-S1
+Turkiye,Dry bulk carriers,18,3.92,24272,41786.0,,101933,203095.0,,2023-S1
+Turkiye,Dry breakbulk carriers,28,1.55,4449,6234.0,,66870,71954.0,,2023-S1
+Turkiye,Roll-on/ roll-off ships,26,,25168,9861.0,,76299,45200.0,,2023-S1
+Turkiye,Container ships,19,0.66,30395,,2805.0,194308,,19462.0,2023-S1
+Turkiye,Passenger ships,24,,1817,,,167704,,,2023-S1
+United Kingdom,All_Vessel_Types,19,1.1,14244,12985.0,3387.0,236673,320106.0,24116.0,2023-S1
+United Kingdom,Liquid bulk carriers,15,1.07,13416,22297.0,,167168,320106.0,,2023-S1
+United Kingdom,Liquefied petroleum gas carriers,12,1.05,6810,7338.0,,56081,60138.0,,2023-S1
+United Kingdom,Liquefied natural gas carriers,8,1.17,96647,77211.0,,168189,154900.0,,2023-S1
+United Kingdom,Dry bulk carriers,16,2.61,24277,41348.0,,94879,182983.0,,2023-S1
+United Kingdom,Dry breakbulk carriers,20,1.51,3530,4933.0,,43788,62823.0,,2023-S1
+United Kingdom,Roll-on/ roll-off ships,16,,23944,9769.0,,100430,55828.0,,2023-S1
+United Kingdom,Container ships,17,0.67,36688,,3387.0,236673,,24116.0,2023-S1
+United Kingdom,Passenger ships,20,,12741,,,185206,,,2023-S1
+United States of America,All_Vessel_Types,27,1.57,18441,50006.0,5580.0,235600,323183.0,19224.0,2023-S1
+United States of America,Liquid bulk carriers,12,1.69,37311,64920.0,,170611,323183.0,,2023-S1
+United States of America,Liquefied petroleum gas carriers,9,1.81,31346,35392.0,,60784,63770.0,,2023-S1
+United States of America,Liquefied natural gas carriers,6,1.38,106989,85401.0,,149367,121963.0,,2023-S1
+United States of America,Dry bulk carriers,16,2.56,30285,53767.0,,108901,209854.0,,2023-S1
+United States of America,Dry breakbulk carriers,20,1.98,12977,17390.0,,66681,88666.0,,2023-S1
+United States of America,Roll-on/ roll-off ships,15,,58760,21536.0,,100430,55828.0,,2023-S1
+United States of America,Container ships,16,1.1,62371,,5580.0,194308,,19224.0,2023-S1
+United States of America,Passenger ships,32,,9291,,,235600,,,2023-S1
+World,All_Vessel_Types,18,0.99,14520,25699.0,3618.0,237000,404389.0,24116.0,2023-S2
+World,Liquid bulk carriers,15,0.98,16126,28404.0,,170611,323514.0,,2023-S2
+World,Liquefied petroleum gas carriers,15,1.04,11064,12366.0,,60784,64220.0,,2023-S2
+World,Liquefied natural gas carriers,12,1.12,92842,72404.0,,168189,155159.0,,2023-S2
+World,Dry bulk carriers,15,2.08,32566,58288.0,,204014,404389.0,,2023-S2
+World,Dry breakbulk carriers,21,1.07,5641,7840.0,,149944,175897.0,,2023-S2
+World,Roll-on/ roll-off ships,18,,26239,10420.0,,100430,55828.0,,2023-S2
+World,Container ships,14,0.71,39295,,3618.0,237000,,24116.0,2023-S2
+World,Passenger ships,20,,8469,,,235600,,,2023-S2
+Australia,All_Vessel_Types,17,1.55,35245,81728.0,4258.0,168666,297902.0,9661.0,2023-S2
+Australia,Liquid bulk carriers,9,1.32,25185,42685.0,,85496,162342.0,,2023-S2
+Australia,Liquefied petroleum gas carriers,9,0.82,12469,13283.0,,53573,58811.0,,2023-S2
+Australia,Liquefied natural gas carriers,11,1.18,112196,85609.0,,149367,97902.0,,2023-S2
+Australia,Dry bulk carriers,11,1.66,60100,112354.0,,152311,297902.0,,2023-S2
+Australia,Dry breakbulk carriers,12,1.83,16470,24510.0,,66870,80500.0,,2023-S2
+Australia,Roll-on/ roll-off ships,11,,39723,14584.0,,76420,43878.0,,2023-S2
+Australia,Container ships,15,1.52,46323,,4258.0,111249,,9661.0,2023-S2
+Australia,Passenger ships,27,,8115,,,168666,,,2023-S2
+Canada,All_Vessel_Types,25,0.47,11924,33755.0,5561.0,176546,301850.0,16000.0,2023-S2
+Canada,Liquid bulk carriers,13,1.04,21960,36311.0,,157208,301850.0,,2023-S2
+Canada,Liquefied petroleum gas carriers,9,1.69,44213,50616.0,,50174,58811.0,,2023-S2
+Canada,Dry bulk carriers,23,0.18,27232,46554.0,,109982,210911.0,,2023-S2
+Canada,Dry breakbulk carriers,10,0.15,9281,11283.0,,49091,81279.0,,2023-S2
+Canada,Roll-on/ roll-off ships,14,,14481,6973.0,,100430,55828.0,,2023-S2
+Canada,Container ships,15,1.44,60548,,5561.0,176546,,16000.0,2023-S2
+Canada,Passenger ships,28,,8101,,,171598,,,2023-S2
+China,All_Vessel_Types,13,1.05,34200,47122.0,4648.0,237000,404389.0,24116.0,2023-S2
+China,Liquid bulk carriers,13,1.1,22063,38888.0,,170611,323514.0,,2023-S2
+China,Liquefied petroleum gas carriers,14,1.02,10279,11169.0,,60784,64220.0,,2023-S2
+China,Liquefied natural gas carriers,10,1.15,96971,77149.0,,168189,155159.0,,2023-S2
+China,Dry bulk carriers,14,2.01,43046,78633.0,,204014,404389.0,,2023-S2
+China,Dry breakbulk carriers,17,1.34,11252,15687.0,,149944,175897.0,,2023-S2
+China,Roll-on/ roll-off ships,14,,27192,9680.0,,89797,47528.0,,2023-S2
+China,Container ships,12,0.61,49932,,4648.0,237000,,24116.0,2023-S2
+China,Passenger ships,13,,19573,,,171598,,,2023-S2
+Croatia,All_Vessel_Types,18,1.33,3938,18764.0,4279.0,155873,159638.0,15500.0,2023-S2
+Croatia,Liquid bulk carriers,17,1.04,15139,25854.0,,84655,159638.0,,2023-S2
+Croatia,Liquefied natural gas carriers,6,2.56,113180,90587.0,,120709,95788.0,,2023-S2
+Croatia,Dry bulk carriers,23,2.42,15518,26024.0,,51255,93320.0,,2023-S2
+Croatia,Dry breakbulk carriers,24,2.9,4574,6396.0,,66870,71954.0,,2023-S2
+Croatia,Container ships,16,0.72,45907,,4279.0,153774,,15500.0,2023-S2
+Croatia,Passenger ships,18,,3609,,,155873,,,2023-S2
+Denmark,All_Vessel_Types,21,0.71,10114,7158.0,1943.0,214286,177723.0,19630.0,2023-S2
+Denmark,Liquid bulk carriers,18,0.66,7423,11759.0,,93759,159039.0,,2023-S2
+Denmark,Liquefied petroleum gas carriers,15,1.4,4248,4872.0,,13549,15070.0,,2023-S2
+Denmark,Dry bulk carriers,12,0.81,9377,15181.0,,91739,177723.0,,2023-S2
+Denmark,Dry breakbulk carriers,24,0.75,2951,4131.0,,39433,61250.0,,2023-S2
+Denmark,Roll-on/ roll-off ships,18,,23959,12943.0,,72708,48988.0,,2023-S2
+Denmark,Container ships,16,0.57,21292,,1943.0,214286,,19630.0,2023-S2
+Denmark,Passenger ships,21,,10568,,,183200,,,2023-S2
+France,All_Vessel_Types,18,1.13,23565,18927.0,5530.0,236583,320916.0,24116.0,2023-S2
+France,Liquid bulk carriers,13,1.03,13694,23566.0,,166639,320916.0,,2023-S2
+France,Liquefied petroleum gas carriers,12,1.17,8869,9848.0,,53573,58312.0,,2023-S2
+France,Liquefied natural gas carriers,9,1.16,104935,82149.0,,149367,121957.0,,2023-S2
+France,Dry bulk carriers,15,3.26,24864,43649.0,,94973,182983.0,,2023-S2
+France,Dry breakbulk carriers,19,1.55,4569,6610.0,,149944,175897.0,,2023-S2
+France,Roll-on/ roll-off ships,19,,27645,11527.0,,76420,45200.0,,2023-S2
+France,Container ships,15,0.83,61148,,5530.0,236583,,24116.0,2023-S2
+France,Passenger ships,19,,24568,,,228081,,,2023-S2
+Germany,All_Vessel_Types,21,0.65,13014,9520.0,4932.0,237000,321300.0,24004.0,2023-S2
+Germany,Liquid bulk carriers,19,0.44,4657,8494.0,,170611,321300.0,,2023-S2
+Germany,Liquefied petroleum gas carriers,16,0.91,5739,6446.0,,26614,30212.0,,2023-S2
+Germany,Liquefied natural gas carriers,11,1.44,44154,36164.0,,122142,98936.0,,2023-S2
+Germany,Dry bulk carriers,13,2.44,28107,47772.0,,109768,209260.0,,2023-S2
+Germany,Dry breakbulk carriers,28,0.59,3558,4956.0,,149944,175897.0,,2023-S2
+Germany,Roll-on/ roll-off ships,17,,33374,13523.0,,100430,55828.0,,2023-S2
+Germany,Container ships,15,1.03,53803,,4932.0,237000,,24004.0,2023-S2
+Germany,Passenger ships,21,,11863,,,206285,,,2023-S2
+Greece,All_Vessel_Types,24,0.82,8881,7251.0,4282.0,237000,299988.0,24004.0,2023-S2
+Greece,Liquid bulk carriers,23,0.6,5004,7796.0,,156392,299988.0,,2023-S2
+Greece,Liquefied petroleum gas carriers,26,0.96,5250,6249.0,,25004,28702.0,,2023-S2
+Greece,Liquefied natural gas carriers,10,1.37,105757,85272.0,,118363,94665.0,,2023-S2
+Greece,Dry bulk carriers,28,0.62,7113,12039.0,,94232,179759.0,,2023-S2
+Greece,Dry breakbulk carriers,34,1.19,3001,4186.0,,40250,64942.0,,2023-S2
+Greece,Roll-on/ roll-off ships,36,,15574,6428.0,,76420,44574.0,,2023-S2
+Greece,Container ships,16,1.0,45972,,4282.0,237000,,24004.0,2023-S2
+Greece,Passenger ships,24,,8428,,,186364,,,2023-S2
+Indonesia,All_Vessel_Types,20,1.27,7868,16732.0,1278.0,161175,319247.0,9365.0,2023-S2
+Indonesia,Liquid bulk carriers,16,1.34,8536,13391.0,,161175,319247.0,,2023-S2
+Indonesia,Liquefied petroleum gas carriers,21,1.08,8398,9250.0,,53573,59479.0,,2023-S2
+Indonesia,Liquefied natural gas carriers,17,1.42,94351,72714.0,,127088,98954.0,,2023-S2
+Indonesia,Dry bulk carriers,18,2.58,25426,44761.0,,109716,211135.0,,2023-S2
+Indonesia,Dry breakbulk carriers,21,1.14,5134,6941.0,,57934,72562.0,,2023-S2
+Indonesia,Roll-on/ roll-off ships,31,,9757,4680.0,,71383,32956.0,,2023-S2
+Indonesia,Container ships,16,0.96,14204,,1278.0,96704,,9365.0,2023-S2
+Indonesia,Passenger ships,21,,5011,,,130818,,,2023-S2
+Italy,All_Vessel_Types,28,1.25,11254,20537.0,3970.0,236184,319202.0,24000.0,2023-S2
+Italy,Liquid bulk carriers,20,1.23,18259,31333.0,,160087,319202.0,,2023-S2
+Italy,Liquefied petroleum gas carriers,15,1.73,8406,9410.0,,35346,44639.0,,2023-S2
+Italy,Liquefied natural gas carriers,11,2.02,63244,49404.0,,116779,96889.0,,2023-S2
+Italy,Dry bulk carriers,16,3.13,24171,41791.0,,94817,181010.0,,2023-S2
+Italy,Dry breakbulk carriers,20,2.0,6532,9171.0,,66870,71954.0,,2023-S2
+Italy,Roll-on/ roll-off ships,14,,36456,13587.0,,85000,45700.0,,2023-S2
+Italy,Container ships,17,0.87,44570,,3970.0,236184,,24000.0,2023-S2
+Italy,Passenger ships,30,,8559,,,228081,,,2023-S2
+Japan,All_Vessel_Types,14,0.41,10519,14925.0,1649.0,236500,327017.0,15500.0,2023-S2
+Japan,Liquid bulk carriers,12,0.32,8180,13807.0,,166639,320299.0,,2023-S2
+Japan,Liquefied petroleum gas carriers,12,0.37,6774,7425.0,,54634,58811.0,,2023-S2
+Japan,Liquefied natural gas carriers,14,1.01,68572,49422.0,,163922,130442.0,,2023-S2
+Japan,Dry bulk carriers,14,0.87,16946,29218.0,,161294,327017.0,,2023-S2
+Japan,Dry breakbulk carriers,14,1.11,6863,9105.0,,49903,80500.0,,2023-S2
+Japan,Roll-on/ roll-off ships,12,,17131,7405.0,,77644,43878.0,,2023-S2
+Japan,Container ships,12,0.35,16887,,1649.0,236500,,15500.0,2023-S2
+Japan,Passenger ships,15,,5485,,,171598,,,2023-S2
+"Korea, Republic of",All_Vessel_Types,15,0.86,20044,22011.0,3038.0,236583,326932.0,24000.0,2023-S2
+"Korea, Republic of",Liquid bulk carriers,13,0.75,13847,23871.0,,167578,323514.0,,2023-S2
+"Korea, Republic of",Liquefied petroleum gas carriers,14,0.89,8800,9632.0,,54696,62500.0,,2023-S2
+"Korea, Republic of",Liquefied natural gas carriers,12,1.03,107652,84181.0,,168189,154940.0,,2023-S2
+"Korea, Republic of",Dry bulk carriers,13,2.67,33933,61335.0,,161294,326932.0,,2023-S2
+"Korea, Republic of",Dry breakbulk carriers,19,1.19,5444,7918.0,,66870,80344.0,,2023-S2
+"Korea, Republic of",Roll-on/ roll-off ships,21,,28960,11775.0,,89797,47528.0,,2023-S2
+"Korea, Republic of",Container ships,14,0.66,32824,,3038.0,236583,,24000.0,2023-S2
+"Korea, Republic of",Passenger ships,11,,15949,,,171598,,,2023-S2
+Netherlands (Kingdom of the),All_Vessel_Types,19,0.55,12607,14802.0,3240.0,237000,324922.0,24116.0,2023-S2
+Netherlands (Kingdom of the),Liquid bulk carriers,17,0.54,8961,17623.0,,170611,323182.0,,2023-S2
+Netherlands (Kingdom of the),Liquefied petroleum gas carriers,15,1.06,6545,7234.0,,50400,58263.0,,2023-S2
+Netherlands (Kingdom of the),Liquefied natural gas carriers,8,1.04,76920,59907.0,,163922,130059.0,,2023-S2
+Netherlands (Kingdom of the),Dry bulk carriers,12,1.29,36495,65148.0,,173712,324922.0,,2023-S2
+Netherlands (Kingdom of the),Dry breakbulk carriers,25,0.38,3824,5621.0,,84503,98370.0,,2023-S2
+Netherlands (Kingdom of the),Roll-on/ roll-off ships,24,,19564,7522.0,,89797,48988.0,,2023-S2
+Netherlands (Kingdom of the),Container ships,16,0.8,35431,,3240.0,237000,,24116.0,2023-S2
+Netherlands (Kingdom of the),Passenger ships,16,,14407,,,206285,,,2023-S2
+Norway,All_Vessel_Types,14,0.43,3924,7685.0,803.0,184089,318689.0,2474.0,2023-S2
+Norway,Liquid bulk carriers,16,0.68,11867,19301.0,,166639,318689.0,,2023-S2
+Norway,Liquefied petroleum gas carriers,11,0.73,6482,6903.0,,37366,42543.0,,2023-S2
+Norway,Liquefied natural gas carriers,16,0.33,21539,15842.0,,121597,95289.0,,2023-S2
+Norway,Dry bulk carriers,15,0.86,18868,31176.0,,109768,209260.0,,2023-S2
+Norway,Dry breakbulk carriers,24,0.35,2968,3584.0,,84503,98370.0,,2023-S2
+Norway,Roll-on/ roll-off ships,19,,10538,6514.0,,64575,24000.0,,2023-S2
+Norway,Container ships,18,0.3,8582,,803.0,25756,,2474.0,2023-S2
+Norway,Passenger ships,14,,3800,,,184089,,,2023-S2
+Philippines,All_Vessel_Types,17,0.84,6909,10532.0,1808.0,151094,297442.0,7092.0,2023-S2
+Philippines,Liquid bulk carriers,12,0.81,5839,9304.0,,65552,114644.0,,2023-S2
+Philippines,Liquefied petroleum gas carriers,16,0.7,7036,7965.0,,54696,58811.0,,2023-S2
+Philippines,Dry bulk carriers,14,4.78,27301,48087.0,,151094,297442.0,,2023-S2
+Philippines,Dry breakbulk carriers,18,0.73,3682,4876.0,,36008,55777.0,,2023-S2
+Philippines,Roll-on/ roll-off ships,27,,20117,8595.0,,70826,30401.0,,2023-S2
+Philippines,Container ships,15,0.84,19266,,1808.0,73172,,7092.0,2023-S2
+Philippines,Passenger ships,18,,3627,,,93502,,,2023-S2
+Russian Federation,All_Vessel_Types,26,1.48,11755,18133.0,1325.0,128975,206204.0,4843.0,2023-S2
+Russian Federation,Liquid bulk carriers,24,1.12,15215,26243.0,,87146,166467.0,,2023-S2
+Russian Federation,Liquefied petroleum gas carriers,20,2.64,14404,17244.0,,26515,38427.0,,2023-S2
+Russian Federation,Liquefied natural gas carriers,11,1.13,100135,72662.0,,128975,97000.0,,2023-S2
+Russian Federation,Dry bulk carriers,18,2.83,26862,47020.0,,104732,206204.0,,2023-S2
+Russian Federation,Dry breakbulk carriers,31,1.71,4478,5999.0,,48292,72562.0,,2023-S2
+Russian Federation,Roll-on/ roll-off ships,31,,9631,5372.0,,20729,11942.0,,2023-S2
+Russian Federation,Container ships,18,1.6,13841,,1325.0,54519,,4843.0,2023-S2
+Russian Federation,Passenger ships,27,,8933,,,38557,,,2023-S2
+Singapore,All_Vessel_Types,12,0.72,26358,16887.0,5382.0,237000,321300.0,24116.0,2023-S2
+Singapore,Liquid bulk carriers,11,0.63,10178,16866.0,,170611,321300.0,,2023-S2
+Singapore,Liquefied petroleum gas carriers,12,1.07,10013,11382.0,,52666,58899.0,,2023-S2
+Singapore,Liquefied natural gas carriers,11,1.07,101617,79783.0,,163922,130211.0,,2023-S2
+Singapore,Dry bulk carriers,15,1.0,12771,21093.0,,107741,209801.0,,2023-S2
+Singapore,Dry breakbulk carriers,17,0.75,7832,10516.0,,38519,55449.0,,2023-S2
+Singapore,Roll-on/ roll-off ships,16,,52592,17214.0,,76420,43878.0,,2023-S2
+Singapore,Container ships,14,0.86,58224,,5382.0,237000,,24116.0,2023-S2
+Singapore,Passenger ships,11,,123954,,,169379,,,2023-S2
+Spain,All_Vessel_Types,18,0.85,17561,16489.0,3187.0,237000,307341.0,24116.0,2023-S2
+Spain,Liquid bulk carriers,13,0.86,11869,19630.0,,163209,307341.0,,2023-S2
+Spain,Liquefied petroleum gas carriers,13,1.04,7361,8257.0,,57494,59138.0,,2023-S2
+Spain,Liquefied natural gas carriers,11,1.03,96447,75098.0,,141671,107160.0,,2023-S2
+Spain,Dry bulk carriers,16,2.13,24082,41311.0,,107567,208263.0,,2023-S2
+Spain,Dry breakbulk carriers,17,1.29,5419,7600.0,,66870,71954.0,,2023-S2
+Spain,Roll-on/ roll-off ships,12,,26258,9067.0,,89797,48988.0,,2023-S2
+Spain,Container ships,17,0.59,35144,,3187.0,237000,,24116.0,2023-S2
+Spain,Passenger ships,19,,15679,,,232000,,,2023-S2
+Sweden,All_Vessel_Types,23,0.84,17932,9177.0,1756.0,214286,318000.0,19630.0,2023-S2
+Sweden,Liquid bulk carriers,15,0.66,8573,12783.0,,162761,318000.0,,2023-S2
+Sweden,Liquefied petroleum gas carriers,13,0.92,8001,8654.0,,54000,62500.0,,2023-S2
+Sweden,Dry bulk carriers,18,0.64,8248,13351.0,,44616,82219.0,,2023-S2
+Sweden,Dry breakbulk carriers,21,1.13,3836,5473.0,,39433,61250.0,,2023-S2
+Sweden,Roll-on/ roll-off ships,18,,32353,12980.0,,76420,38500.0,,2023-S2
+Sweden,Container ships,18,0.64,19056,,1756.0,214286,,19630.0,2023-S2
+Sweden,Passenger ships,25,,22022,,,145000,,,2023-S2
+Turkiye,All_Vessel_Types,24,1.2,6703,17992.0,2824.0,236080,297541.0,19462.0,2023-S2
+Turkiye,Liquid bulk carriers,15,1.32,19505,33018.0,,86952,166467.0,,2023-S2
+Turkiye,Liquefied petroleum gas carriers,19,1.35,17144,20169.0,,50676,54857.0,,2023-S2
+Turkiye,Liquefied natural gas carriers,9,1.3,109109,88098.0,,122142,98954.0,,2023-S2
+Turkiye,Dry bulk carriers,17,3.41,24459,42236.0,,150918,297541.0,,2023-S2
+Turkiye,Dry breakbulk carriers,28,1.42,4599,6489.0,,43528,62053.0,,2023-S2
+Turkiye,Roll-on/ roll-off ships,26,,25417,9920.0,,75528,44574.0,,2023-S2
+Turkiye,Container ships,18,0.65,30572,,2824.0,236080,,19462.0,2023-S2
+Turkiye,Passenger ships,25,,2053,,,167704,,,2023-S2
+United Kingdom,All_Vessel_Types,19,1.12,14354,12518.0,3554.0,237000,320159.0,24116.0,2023-S2
+United Kingdom,Liquid bulk carriers,15,1.1,12746,21077.0,,170611,320159.0,,2023-S2
+United Kingdom,Liquefied petroleum gas carriers,11,1.07,6722,7185.0,,26614,30212.0,,2023-S2
+United Kingdom,Liquefied natural gas carriers,8,1.26,76951,61223.0,,163922,143268.0,,2023-S2
+United Kingdom,Dry bulk carriers,16,2.6,23705,40369.0,,93967,182913.0,,2023-S2
+United Kingdom,Dry breakbulk carriers,19,1.5,3572,4968.0,,149944,175897.0,,2023-S2
+United Kingdom,Roll-on/ roll-off ships,16,,24482,9954.0,,100430,55828.0,,2023-S2
+United Kingdom,Container ships,17,0.69,39759,,3554.0,237000,,24116.0,2023-S2
+United Kingdom,Passenger ships,20,,13028,,,185206,,,2023-S2
+United States of America,All_Vessel_Types,26,1.51,18889,49634.0,5799.0,235600,323183.0,19224.0,2023-S2
+United States of America,Liquid bulk carriers,12,1.73,37271,64920.0,,170611,323183.0,,2023-S2
+United States of America,Liquefied petroleum gas carriers,9,1.82,31440,35435.0,,60784,63770.0,,2023-S2
+United States of America,Liquefied natural gas carriers,6,1.34,106652,85337.0,,149367,107662.0,,2023-S2
+United States of America,Dry bulk carriers,21,1.99,28716,51829.0,,108901,209854.0,,2023-S2
+United States of America,Dry breakbulk carriers,19,1.76,13012,17200.0,,91784,116173.0,,2023-S2
+United States of America,Roll-on/ roll-off ships,15,,59121,21470.0,,100430,55828.0,,2023-S2
+United States of America,Container ships,15,1.07,64946,,5799.0,194308,,19224.0,2023-S2
+United States of America,Passenger ships,30,,9880,,,235600,,,2023-S2
