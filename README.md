@@ -1,4 +1,4 @@
-# ⚓ Maritime Port Performance Dashboard (2022–2023)
+# ⚓ Maritime Port Performance EDA (2022–2023)
 
 ![Maritime Port Dashboard](Port_Images/Maritime%20Port.PNG)
 
@@ -53,9 +53,11 @@ Built using `Streamlit` for interactive data exploration.
 If you work in maritime logistics, policy, or analytics — this project could help inform smarter decisions.
 Feel free to fork, collaborate, or suggest improvements!
 
-> 🔗 Author: Fijabi J. Adekunle (FJ the Data Explorer)
-> 📧 Contact: [LinkedIn](https://www.linkedin.com/in/fijabi-j-adekunle/)
+- 🔗 Author: Fijabi J. Adekunle (FJ the Data Explorer)
+- 📧 Contact: [LinkedIn](https://www.linkedin.com/in/fijabi-j-adekunle/)
 Email: fijaytwo@gmail.com
+
+> Navigating Data| Unveiling Insights| Driving Impacts
 
 
 
