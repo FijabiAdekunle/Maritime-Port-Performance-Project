@@ -1,6 +1,6 @@
 # ⚓ Maritime Port Performance (2022–2023) EDA
 
-![Maritime Port Dashboard](Port_Images/Port_banner.PNG)
+![Maritime Port Banner](https://i.postimg.cc/j5sXKLw2/Port-banner.png)
 
 This project provides data exploration and visualization of port performance statistics using a Streamlit dashboard, based on the UNCTAD dataset for 2022 and 2023.
 
@@ -15,7 +15,7 @@ This project explores trends in vessel size, age, port time, and cargo capacity 
 - Columns include vessel type, period, average vessel age, port time, gross tonnage, cargo and container capacity.
 
 📁 **Available Data**:
-- `cleaned_port_performance_2022_2023.csv` — final cleaned dataset used in dashboard and analysis.
+- `cleaned_port_performance_dataset_2022_2023.csv` — final cleaned dataset used in dashboard and analysis.
 
 ## 🧪 EDA Highlights
 
