@@ -54,8 +54,7 @@ If you work in maritime logistics, policy, or analytics — this project could h
 Feel free to fork, collaborate, or suggest improvements!
 
 - 🔗 Author: Fijabi J. Adekunle (FJ the Data Explorer)
-- 📧 Contact: [LinkedIn](https://www.linkedin.com/in/fijabi-j-adekunle/)
-Email: fijaytwo@gmail.com
+- 📧 Contact: [LinkedIn](https://www.linkedin.com/in/fijabi-j-adekunle/) | Email: fijaytwo@gmail.com
 
 > **Navigating Data| Unveiling Insights| Driving Impacts**
 
