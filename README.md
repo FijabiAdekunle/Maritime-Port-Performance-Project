@@ -26,12 +26,8 @@ This project explores trends in vessel size, age, port time, and cargo capacity 
 
 ## 🌐 Live Dashboard
 
-👉 **[Explore the Streamlit App](https://maritime-port-performance-app-app-chxb78zq8crbdjwxfp8zp6.streamlit.app/)**  
+👉 **[Explore the Streamlit App](https://port-performance-app-app-rugw65vvf4ddatbdgydepk.streamlit.app/)**  
 Built using `Streamlit` for interactive data exploration.
- - Here's the Screenshot of `PowerBI Dashboard`
-<p align="center">
-  <img src="https://i.postimg.cc/kXDDLmR0/Maritime-Port-call-and-Performance-Dash-Board.png" alt="Maritime Port call Dashboard" width="800"/>
-</p>
 
 
 
