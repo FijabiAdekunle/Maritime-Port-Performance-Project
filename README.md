@@ -1,6 +1,6 @@
 # ⚓ Maritime Port Performance (2022–2023) EDA
 
-[![Port-banner.png](https://i.postimg.cc/j5sXKLw2/Port-banner.png)](https://postimg.cc/sBNS4fJC)
+[![Maritime-Port.png](https://i.postimg.cc/6qKxzYfM/Maritime-Port.png)](https://postimg.cc/zbxQGwMh)
 
 This project provides data exploration and visualization of port performance statistics using a Streamlit dashboard, based on the UNCTAD dataset for 2022 and 2023.
 
