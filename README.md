@@ -1,6 +1,6 @@
 # ⚓ Maritime Port Performance (2022–2023) EDA
 
-![Maritime Port Banner](https://i.postimg.cc/j5sXKLw2/Port-banner.png)
+[![Port-banner.png](https://i.postimg.cc/j5sXKLw2/Port-banner.png)](https://postimg.cc/sBNS4fJC)
 
 This project provides data exploration and visualization of port performance statistics using a Streamlit dashboard, based on the UNCTAD dataset for 2022 and 2023.
 
@@ -31,8 +31,7 @@ Built using `Streamlit` for interactive data exploration.
 
 🖥️ PowerBI Dashboard Screenshot:
 
-![PowerBI Dashboard](https://i.postimg.cc/hPcLnc5j/Maritime-Port-call-and-performance-Dashboard-PNG.png)
-
+[![Maritime-Port-call-and-performance-Dashboard-PNG.png](https://i.postimg.cc/hPcLnc5j/Maritime-Port-call-and-performance-Dashboard-PNG.png)](https://postimg.cc/vD2gLFMF)
 
 
 ## 🚀 Future Work
